@@ -11,13 +11,13 @@
 </p>
 ​
 <p align='center'>
-  <a href="https://github.com/higgjd"><img src="https://visitor-badge.glitch.me/badge?page_id=piresgabriel??style=for-the-badge&logo=appveyor"></a>
+  <a href="https://github.com/higgjd"><img src="https://visitor-badge.glitch.me/badge?page_id=higginsjenny??style=for-the-badge&logo=appveyor"></a>
 </p>
 ​
 ​
 <p align='center'>
-  <a href="https://www.linkedin.com/in/gabrielgpires/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:piresgabrieluk@gmail.com?subject=Hello%20Gabriel"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jenny-higgins-246629a0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:higgjd@gmail.com?subject=Hello%20Jenny"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <h4>🚃  I am currently a Web Development Le Wagon student (ends in July/2022) </h4>
 <h5><i>... and if you want to talk about that, feel free to reach out!</i></h5>
@@ -33,6 +33,7 @@
 </p>
 <br>
 <p align="right">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3QWWR6ALjAuPX8gYd0jEQW?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
   <a href="https://open.spotify.com/user/12150045612/playlists"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <h5 align="right">🎧 My playlists to listen while working</h5>
 </p>
