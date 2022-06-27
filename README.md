@@ -24,11 +24,10 @@
 <h4>📖 Currently Studying</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 <br>
 <p align="right">
-  <a href="[https://open.spotify.com/user/12150045612/playlists](https://open.spotify.com/playlist/6qJOjtGF3ucnofMT9KKdH1?si=318de1b68a9e4d90)"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="[https://open.spotify.com/user/12150045612/playlists](https://open.spotify.com/playlist/6qJOjtGF3ucnofMT9KKdH1?si=318de1b68a9e4d90)](https://open.spotify.com/playlist/6qJOjtGF3ucnofMT9KKdH1?si=b3d31f799a69403b)"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <h5 align="right">🎧 The playlist I listened to while learning to code!</h5>
 </p>
 ​
