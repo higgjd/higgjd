@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @higgjd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<h1 align='center'> 👋 Hi, I’m @higgjd 🎃</h1>
+<h1 align='center'> 👋 Hi, I’m @higgjd </h1>
 ​
 <p align='center'>
   I am a professional, living and working in London. I've been working in ecomm retail for the last 5 years, before beginning my journey into code! Follow my LinkedIn for more!
@@ -33,9 +28,8 @@
 </p>
 <br>
 <p align="right">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3QWWR6ALjAuPX8gYd0jEQW?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-  <a href="https://open.spotify.com/user/12150045612/playlists"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <h5 align="right">🎧 My playlists to listen while working</h5>
+  <a href="[https://open.spotify.com/user/12150045612/playlists](https://open.spotify.com/playlist/6qJOjtGF3ucnofMT9KKdH1?si=318de1b68a9e4d90)"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <h5 align="right">🎧 The playlist I listened to while learning to code!</h5>
 </p>
 ​
 ​
