@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higgjd&label=Profile%20views&color=0e75b6&style=flat" alt="higgjd" /> </p>
 
+- 📽 My bootcamp main project was [Fresh Pics](https://www.freshpics.me/)
+
+- 📀 My bootcamp AirBnb clone project was [Vinyl Frontier](https://vinyl-frontier.herokuapp.com/)
+
 - 🔭 I’m currently working on [Outta Thyme](https://outta-thyme.herokuapp.com/)
 
 - 🌱 I’m currently learning **JavaScript and React**
