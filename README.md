@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Outta Thyme](https://outta-thyme.herokuapp.com/)
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript and RSpec**
 
 - 💬 Ask me about **ruby**
 
