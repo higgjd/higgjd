@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenny</h1>
-<h3 align="center">A passionate fullstack developer in London</h3>
+<h3 align="center">A fullstack developer in London - just graduated from Le Wagon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=higgjd&label=Profile%20views&color=0e75b6&style=flat" alt="higgjd" /> </p>
 
