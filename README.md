@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Ruby**
 
-- ⚔️ See me on <a href= "https://www.codewars.com/users/higgjd" target="_blank" rel="noreferrer">Codewars</a>
+- ⚔️ Join me on <a href= "https://www.codewars.com/users/higgjd" target="_blank" rel="noreferrer">Codewars</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
