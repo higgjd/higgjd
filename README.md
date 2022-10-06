@@ -5,7 +5,7 @@
 
 - 📽 My bootcamp main project was [Fresh Pics](https://www.freshpics.me/)
 
-- 📀 My bootcamp AirBnb clone project was [Vinyl Frontier](https://vinyl-frontier.herokuapp.com/)
+- 📀 My bootcamp marketplace project was [Vinyl Frontier](https://vinyl-frontier.herokuapp.com/)
 
 - 🔭 I’m currently working on [Outta Thyme](https://outta-thyme.herokuapp.com/)
 
