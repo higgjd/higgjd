@@ -7,8 +7,6 @@
 
 - 📀 My bootcamp marketplace project was [Vinyl Frontier](https://vinyl-frontier.herokuapp.com/) - see repo [here](https://github.com/EdBeese/vinyl-frontier)
 
-- 🔭 I’m currently working on [Outta Thyme](https://outta-thyme.herokuapp.com/)
-
 - 🌱 I’m currently learning **JavaScript and RSpec**
 
 - 💬 Ask me about **Ruby**
